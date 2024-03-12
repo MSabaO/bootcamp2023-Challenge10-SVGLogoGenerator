@@ -1,0 +1,16 @@
+{
+  "name": "bootcamp2023-challenge10-svglogogenerator",
+  "version": "1.0.0",
+  "description": "<br/> <p align=\"center\">     <a href=\"https://unb.ca/cel/bootcamps/coding.html\">         <img alt=\"University of New Brunswick\" src=\"https://img.shields.io/static/v1.svg?label=bootcamp&message=UNB&color=red\" /></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "jest": "^29.7.0"
+  }
+}
