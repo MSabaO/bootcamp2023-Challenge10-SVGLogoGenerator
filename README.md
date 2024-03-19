@@ -26,23 +26,21 @@ SO THAT I don't have to pay a graphic designer<br>
 - [Contribution](#contribution)
 - [Tests](#testing)
 
-# THIS NEEDS TO BE UPDATED 2024-03-12
 
 ## How to install
-You can install this readme by cloning this repository in your terminal with the following url: https://github.com/MSabaO/bootcamp2023-Challenge9. Once completed, type "npm init -y" in the console to install the node packages. <br>
+You can install this readme by cloning this repository in your terminal with the following url: https://github.com/MSabaO/bootcamp2023-Challenge10-SVGLogoGenerator. Once completed, type "npm init -y" in the console to install the node packages. <br>
 step by step
 npm init -y
 npm install
-npm install inquirer
-npm install jest
+
 
 
 ### Walkthrough Video
 
-https://watch.screencastify.com/v/1LpTCbhN0TJhbuzQQKMQ
+
 
 ## Usage
-Once installed, open your terminal and navigate into the folder of this app "bootcamp2023-Challenge9". Write in the terminal "node index.js", and you will see the questions prompting one by one, answer them and press enter. The app will show a message when it is finished.<br>
+Once installed, open your terminal and navigate into the folder of this app "bootcamp2023-Challenge10-SVGLogoGenerator". Write in the terminal "node index.js", and you will see the questions prompting one by one, answer them and press enter. The app will show a message when it is finished.<br>
 <br>
 <b>Screenshot of the questions</b>
 ![alt text](image.png)

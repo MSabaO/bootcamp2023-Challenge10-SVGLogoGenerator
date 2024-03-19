@@ -22,7 +22,7 @@ async function promptUser() {
       {
         type: "input",
         name: "textColor",
-        message: "What is the color of the text?",
+        message: "What is the color of the text? (in HEX)",
         validate: (input) => {
           if (validator.isEmpty(input)) {
             return "Text color cannot be empty";
@@ -35,6 +35,7 @@ async function promptUser() {
           const color = input.toLowerCase();
           const validColors = [
             "red",
+            "pink",
             "orange",
             "yellow",
             "green",
@@ -73,6 +74,7 @@ async function promptUser() {
           const color = input.toLowerCase();
           const validColors = [
             "red",
+            "pink",
             "orange",
             "yellow",
             "green",
